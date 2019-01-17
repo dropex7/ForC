@@ -1,2 +1,2 @@
-# ForC
+# ForC++
 Labs and Maze
